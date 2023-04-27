@@ -2,6 +2,11 @@
 
 ### Youtube Vid: https://www.youtube.com/watch?v=tmJ_R4uT0-w&ab_channel=Wanli
 
+<br />
+
+There was no good Nanite Shadow Imposter demonstration on Internet while l wrote this paper. So, l thought, why didn’t l make one? 
+
+<br />
 
 The idea is to increase performance by replacing dynamic shadow-casting foliage with shadow imposters and non-shadow casting foliage and disabling expensive World Position Offset shadow on selected foliage and replace it with a static shadow imposter of the current mesh.
 
@@ -18,7 +23,7 @@ The idea is to increase performance by replacing dynamic shadow-casting foliage 
 
 <br />
 <br />
-This is a performance comparison demo. DisplayMap2 would be WPO foliage with dynamic shadow, and DisplayMap3 would be WPO foliage with static shadow imposter.
+DisplayMap2 would be WPO foliage with dynamic shadow, and DisplayMap3 would be WPO foliage with static shadow imposter.
 Try run through the forests till the end, the density gets higher the further you go. Simple weather and time change functions are also implemented.
 
 Have Fun!
@@ -29,8 +34,8 @@ key mapping:
 ```java
 W, A, S, D: move
 
-Z: Go to DisplaMap2
-X: Go to DisplayMap3
+Z: Go to DisplaMap2(dynamic shadow map)
+X: Go to DisplayMap3(shadow imposter map)
 
 C, V, B, N, M: set scalability, c being low(lowest), m being cinematic(highest)
 
