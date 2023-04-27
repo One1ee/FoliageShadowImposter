@@ -4,7 +4,7 @@
 
 <br />
 
-# # #  There was no good Nanite Shadow Imposter demonstration on Internet while l wrote this paper. So, l thought, why didn’t l make one? 
+## There was no good Nanite Shadow Imposter demonstration on Internet while l wrote this paper. So, l thought, why didn’t l make one? 
 ---
 
 <br />
