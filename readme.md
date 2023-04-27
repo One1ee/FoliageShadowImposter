@@ -13,8 +13,6 @@ The idea is to increase performance by replacing dynamic shadow-casting foliage 
 
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `uncached virtual shadow map with dynamic shadow`
 
-<br />
-
 ![uncached virtual shadow map with shadow imposter](https://github.com/One1ee/MyGarage/blob/main/delemete1.png)
 
 <br />
