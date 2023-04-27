@@ -32,7 +32,8 @@ Simple weather change, time change, and Landscape replacement functions are also
 
 <br />
 
-key mapping:
+---
+#### key mapping:
 ```java
 W, A, S, D: move
 
