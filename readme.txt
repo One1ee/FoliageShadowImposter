@@ -26,6 +26,3 @@ K: swap simple Landscape with a realistic Landscape
 
 Esc: quit game
 
-
-
-(If LowLevelError crash happens, most of time it's from GPU overclocking)
