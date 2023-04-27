@@ -16,7 +16,8 @@ The idea is to increase performance by replacing dynamic shadow-casting foliage 
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `cached virtual shadow map with shadow imposter`
 ![cached virtual shadow map with shadow imposter](https://github.com/One1ee/MyGarage/blob/main/deleteme2.png)
 
-
+<br />
+<br />
 This is a performance comparison demo. DisplayMap2 would be WPO foliage with dynamic shadow, and DisplayMap3 would be WPO foliage with static shadow imposter.
 Try run through the forests till the end, the density gets higher the further you go. Simple weather and time change functions are also implemented.
 
