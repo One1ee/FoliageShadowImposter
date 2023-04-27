@@ -1,8 +1,6 @@
 This is a performance comparison demo. DisplayMap2 would be WPO foliage with dynamic shadow, and DisplayMap3 would be WPO foliage with static shadow imposter.
 Try run through the forests till the end, the density gets higher the further you go. I also implemented weather and time change functions.
 
-(If LowLevelError crash happens, most of time it's from GPU overclocking)
-
 Have Fun!
 
 
@@ -30,4 +28,4 @@ Esc: quit game
 
 
 
-
+(If LowLevelError crash happens, most of time it's from GPU overclocking)
