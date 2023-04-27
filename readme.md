@@ -20,7 +20,7 @@ Have Fun!
 
 
 key mapping:
-
+```java
 W, A, S, D: move
 
 Z: Go to DisplaMap2
@@ -39,7 +39,7 @@ K: swap simple Landscape with a realistic Landscape
 1, 2, 3, 4: change weather (clear skies, cloudy, rainy, snowy)
 
 Esc: quit game
-
+```
 
 
 # My_Java_Interview
