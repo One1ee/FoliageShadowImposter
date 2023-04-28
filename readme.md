@@ -17,7 +17,7 @@ The idea is to increase performance by replacing dynamic shadow-casting foliage 
 
 <br />
 
-- ![#c5f015](https://via.placeholder.com/15/1589F0/000000?text=+) `cached virtual shadow map with shadow imposter`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `cached virtual shadow map with shadow imposter`
 
 ![cached virtual shadow map with shadow imposter](https://raw.githubusercontent.com/One1ee/MyGarage/main/deleteme2.png?token=GHSAT0AAAAAACB7AIJOGSLYWR2WITBB3YPSZCLDYDA)
 
