@@ -34,21 +34,27 @@ Simple weather change, time change, and Landscape replacement functions are also
 ---
 #### key mapping:
 ```java
+//movement
 W, A, S, D: move
 
+//swap maps
 Z: Go to DisplaMap2(dynamic shadow map)
 X: Go to DisplayMap3(shadow imposter map)
 
+//scalability
 C, V, B, N, M: set scalability, c being low(lowest), m being cinematic(highest)
 
+//time change
 R: change time, adding 6 hours in 1 second
 T: change time, adding 6 hours in 20 second
 Y: move forward by 30 mins
 U: move backward by 30 mins
 
+// landscape replacement
 L: swap realistic Landscape with a simple one
 K: swap simple Landscape with a realistic Landscape
 
+// weather rotation
 1, 2, 3, 4: change weather (clear skies, cloudy, rainy, snowy)
 
 Esc: quit game
