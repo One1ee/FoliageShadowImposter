@@ -9,7 +9,7 @@
 
 <br />
 
-The idea is to increase performance by replacing dynamic shadow-casting foliage with shadow imposters and non-shadow casting foliage and disabling expensive World Position Offset shadow on selected foliage and replace it with a static shadow imposter of the current mesh.
+The idea is to increase performance by replacing dynamic shadow-casting foliage with shadow imposters and non-shadow casting foliage, disabling expensive World Position Offset shadow on selected foliage and replace it with a static shadow imposter of the current mesh.
 
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `uncached virtual shadow map with dynamic shadow`
 
