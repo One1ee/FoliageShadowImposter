@@ -33,7 +33,6 @@ Run through the forests till the end, the density gets higher the further you go
 Simple weather change, time change, and Landscape replacement functions are also implemented(see below👇).
 
 #### Have Fun!
-
 <br />
 
 ---
