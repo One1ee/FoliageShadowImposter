@@ -29,7 +29,7 @@ The idea is to increase performance by replacing dynamic shadow-casting foliage 
 <br />
 <br />
 DisplayMap2 is built with WPO foliage with dynamic shadow; DisplayMap3 is built with WPO foliage with static shadow imposter.<br />
-Run through the forests till the end, the density gets higher the further you go. <br />
+Try run through the forests, the density gets higher the further you go. <br />
 Simple weather change, time change, and Landscape replacement functions are also implemented(see below👇).
 
 #### Have Fun!
