@@ -5,8 +5,6 @@
 <br />
 #### There was no good Nanite Shadow Imposter demonstration on Internet while l wrote this paper. So, l thought, why didn’t l make one? 
 
-<br />
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/One1ee/MyGarage/main/usethis.png"/>
 </p>
