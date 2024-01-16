@@ -1,8 +1,10 @@
 # Foliage-Shadow-Imposter
 
-### Youtube Vid: https://www.youtube.com/watch?v=tmJ_R4uT0-w&ab_channel=Wanli
+### Youtube Vid: 
+https://www.youtube.com/watch?v=tmJ_R4uT0-w&ab_channel=Wanli
 
-### Paper: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12784/127842E/Unreal-engine-nanite-foliage-shadow-imposter/10.1117/12.2692451.short#_=_
+### Paper: 
+https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12784/127842E/Unreal-engine-nanite-foliage-shadow-imposter/10.1117/12.2692451.short#_=_
 <br />
 
 #### There was no good Nanite Shadow Imposter demonstration on the Internet while l wrote this paper. 
